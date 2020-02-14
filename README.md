@@ -1,2 +1,2 @@
 # geojson-world
-GeoJSON for world, from AshKyd's geojson-regions
+GeoJSON of world without antarctica, from AshKyd's geojson-regions
